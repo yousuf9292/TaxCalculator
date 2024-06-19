@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_pdf_viewer import pdf_viewer
+
 
 st.title('Tax Calculator-2024')
 
