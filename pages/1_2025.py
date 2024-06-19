@@ -3,7 +3,7 @@ from streamlit_pdf_viewer import pdf_viewer
 
 st.title('Tax Calculator-2025')
 
-st.image('.\\tax25.png')
+st.image('https://github.com/yousuf9292/TaxCalculator/blob/main/tax25.PNG')
 
 annual_taxable_amount=st.number_input(label="Annual Taxable Amount",placeholder='Enter Taxable Amount')
 calculation=st.button("Calculation")
