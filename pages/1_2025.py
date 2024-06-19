@@ -3,7 +3,7 @@ import streamlit as st
 
 st.title('Tax Calculator-2025')
 
-st.image('https://github.com/yousuf9292/TaxCalculator/blob/main/tax25.PNG')
+st.image('https://github.com/yousuf9292/TaxCalculator/blob/main/tax25.PNG?raw=True')
 
 annual_taxable_amount=st.number_input(label="Annual Taxable Amount",placeholder='Enter Taxable Amount')
 calculation=st.button("Calculation")
